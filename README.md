@@ -1,4 +1,4 @@
-![anna-roshchina](./github-opening.jpeg)
+![anna](./github-opening.001.jpeg)
 
 ### Hi there 👋
 
