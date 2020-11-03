@@ -7,7 +7,7 @@
 I am a full-stack web developer based in Berlin. I came into coding from a rich and diverse academic and teaching background. Constant learning and challenging my mind define my professional life as well as my personality. That is why I decided to become a web developer and work in a dynamic environment which encourages a life-time learning.
 </br>
 
-### **Currently open to work 🔭**
+### **Currently open to work 🧐**
 
 I am looking for a nice dev team to join as a frontend or full-stack developer. As I am writing my M.A. thesis this semester, so I am also open to a part-time, a working student's role or an internships 📚
 </br>
@@ -29,6 +29,11 @@ I am looking for a nice dev team to join as a frontend or full-stack developer. 
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
 ![](https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+</br>
+
+### **What I am learning**
+
+![](https://img.shields.io/badge/sass%20-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
 
 
 
