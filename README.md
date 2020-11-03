@@ -1,3 +1,5 @@
+![anna-roshchina](./github-opening.jpeg)
+
 ### Hi there 👋
 
 <!--
