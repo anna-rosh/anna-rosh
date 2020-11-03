@@ -2,19 +2,22 @@
 
 # Hi! I am Anna. </br> Welcome to my Code 👩🏼‍💻
 
-### About me
+### **About me**
 
 I am a full-stack web developer based in Berlin. I came into coding from a rich and diverse academic and teaching background. Constant learning and challenging my mind define my professional life as well as my personality. That is why I decided to become a web developer and work in a dynamic environment which encourages a life-time learning.
+</br>
 
-### Currently open to work 🔭
+### **Currently open to work 🔭**
 
 I am looking for a nice dev team to join as a frontend or full-stack developer. As I am writing my M.A. thesis this semester, so I am also open to a part-time, a working student's role or an internships 📚
+</br>
 
-### Contact me
+### **Contact me**
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/annaroshchina/)
+</br>
 
-### Tech Stack
+### **Tech Stack**
 
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
