@@ -12,8 +12,7 @@ I am looking for a nice dev team to join as a frontend or full-stack developer. 
 
 ### Contact me
 
-[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/willi-n/)
-[<img src='https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'>](anna.roshchina.bln@gmail.com)
+[<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/anna-roshchina)
 
 ### Tech Stack
 
