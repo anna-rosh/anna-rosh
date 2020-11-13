@@ -9,7 +9,7 @@ I am a full-stack web developer based in Berlin. I came into coding from a rich 
 
 ### **You are always welcome on my personal website 💁🏼‍♀️**
 
-http://www.annaroshchina.com/
+www.annaroshchina.com
 
 ### **Currently open to work 🧐**
 
