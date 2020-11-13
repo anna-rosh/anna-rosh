@@ -7,6 +7,10 @@
 I am a full-stack web developer based in Berlin. I came into coding from a rich and diverse academic and teaching background. Constant learning and challenging my mind define my professional life as well as my personality. That is why I decided to become a web developer and work in a dynamic environment which encourages a life-time learning.
 </br>
 
+### **You are always welcome on my personal website 💁🏼‍♀️**
+
+http://www.annaroshchina.com/
+
 ### **Currently open to work 🧐**
 
 I am looking for a nice dev team to join as a frontend or full-stack developer. As I am writing my M.A. thesis this semester, I am also open to a part-time, a working student's role or an internships 📚
