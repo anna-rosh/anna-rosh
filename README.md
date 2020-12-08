@@ -11,11 +11,6 @@ I am a full-stack web developer based in Berlin. I came into coding from a rich 
 
 https://annaroshchina.com/
 
-### **Currently open to work 🧐**
-
-I am looking for a nice dev team to join as a frontend or full-stack developer. As I am writing my M.A. thesis this semester, I am also open to a part-time, a working student's role or an internships 📚
-</br>
-
 ### **Contact me**
 
 [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/annaroshchina/)
